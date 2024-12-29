@@ -1,3 +1,1 @@
-# Project "Bookbot"
-
-A simple bot that can recommend books.
+BookBot is my first project!
